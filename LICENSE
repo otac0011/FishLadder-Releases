@@ -1,7 +1,7 @@
 FISHLADDER
 END USER LICENSE AGREEMENT
 
-Version 1.0 — Effective 2026-11-19
+Version 1.1 — Effective 2026-05-17
 
 PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THE SOFTWARE.
 BY CLICKING "I ACCEPT," OR BY INSTALLING, COPYING, OR USING THE SOFTWARE,
@@ -11,8 +11,9 @@ INSTALL OR USE THE SOFTWARE.
 
 1. DEFINITIONS
 
-"Software" means the FishLadder application, including all compiled binaries,
-documentation, and accompanying files distributed with it.
+"Software" means the FishLadder application, including all source
+code, compiled binaries, documentation, and accompanying files distributed
+with it.
 
 "Licensor" means the individual developer of the Software.
 
@@ -26,14 +27,20 @@ Subject to the terms of this Agreement, the Licensor grants You a personal,
 non-exclusive, non-transferable, revocable license to install and use the
 Software on devices You own or control.
 
-This version of the Software is provided at no charge. The Software is
-closed source; no source code is licensed or provided.
+This version of the Software (version 1.x releases) is provided at no
+charge.
 
 
 3. PERMITTED USES
 
-You may install and use the Software on any number of devices You own or
-control for personal, educational, or commercial purposes.
+You may:
+
+  (a) Install and use the Software on any number of devices You own or
+      control for personal, educational, or commercial purposes.
+
+  (b) Share unmodified copies of the Software with others, provided this
+      Agreement accompanies each copy and no fee is charged for the
+      Software itself.
 
 
 4. RESTRICTIONS
@@ -43,31 +50,20 @@ You may not:
   (a) Sell, sublicense, rent, lease, or transfer the Software or any
       rights granted under this Agreement to any third party.
 
-  (b) Redistribute, publish, host, or otherwise make the Software or its
-      installer available to others, whether or not for a fee. Others may
-      obtain the Software from the Licensor's official release page.
+  (b) Modify, adapt, translate, decompile, disassemble, reverse-engineer,
+      or create derivative works based on the Software.
 
-  (c) Modify, adapt, translate, decompile, disassemble, reverse-engineer,
-      or create derivative works based on the Software, except to the
-      extent that applicable law expressly permits such activity despite
-      this limitation.
-
-  (d) Remove, alter, or obscure any copyright notice, trademark, or other
+  (c) Remove, alter, or obscure any copyright notice, trademark, or other
       proprietary marking included in or on the Software.
+
+  (d) Distribute the Software in modified form or bundle it with other
+      products without prior written permission from the Licensor.
 
   (e) Use the Software in any manner that could damage, disable, or impair
       the Software or servers or networks connected to it.
 
 
-5. THIRD-PARTY COMPONENTS
-
-The Software includes open-source components that are licensed to You under
-their own licenses, listed in the THIRD-PARTY-NOTICES file distributed with
-the Software. Nothing in this Agreement limits Your rights under those
-licenses for those components.
-
-
-6. FUTURE VERSIONS AND PRICING
+5. FUTURE VERSIONS AND PRICING
 
 The Licensor reserves the right to release future versions of the Software
 under different licensing terms, including paid or subscription-based
@@ -77,7 +73,7 @@ of a paid future version. However, future versions may require a separate
 license.
 
 
-7. INTELLECTUAL PROPERTY
+6. INTELLECTUAL PROPERTY
 
 The Software and all copies thereof are proprietary to the Licensor and
 title remains with the Licensor. All rights in the Software not specifically
@@ -86,7 +82,7 @@ protected by copyright laws and international copyright treaties, as well
 as other intellectual property laws and treaties.
 
 
-8. NO WARRANTY
+7. NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -104,7 +100,7 @@ AND PERFORMANCE SPECIFICATIONS. DO NOT USE THE SOFTWARE AS A SUBSTITUTE
 FOR QUALIFIED ENGINEERING REVIEW.
 
 
-9. LIMITATION OF LIABILITY
+8. LIMITATION OF LIABILITY
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
 LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
@@ -120,7 +116,7 @@ AGREEMENT, WHETHER IN CONTRACT, TORT, OR OTHERWISE, SHALL NOT EXCEED THE
 AMOUNT YOU PAID FOR THE SOFTWARE, WHICH FOR THIS VERSION IS ZERO.
 
 
-10. TERMINATION
+9. TERMINATION
 
 This Agreement is effective until terminated. Your rights under this
 Agreement will terminate automatically and without notice if You fail to
@@ -129,10 +125,10 @@ all use of the Software and destroy all copies in Your possession or
 control.
 
 The Licensor may also terminate this Agreement at any time upon notice to
-You. Sections 7, 8, 9, 11, and 12 survive any termination.
+You. Sections 6, 7, 8, 10, and 11 survive any termination.
 
 
-11. GOVERNING LAW AND DISPUTE RESOLUTION
+10. GOVERNING LAW AND DISPUTE RESOLUTION
 
 This Agreement is governed by the laws of the jurisdiction in which the
 Licensor resides, without regard to conflict-of-law principles. Any dispute
@@ -140,7 +136,7 @@ arising under this Agreement shall be subject to the exclusive jurisdiction
 of the courts in that jurisdiction.
 
 
-12. ENTIRE AGREEMENT
+11. ENTIRE AGREEMENT
 
 This Agreement constitutes the entire agreement between You and the Licensor
 with respect to the Software and supersedes all prior or contemporaneous

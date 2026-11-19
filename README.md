@@ -4,7 +4,11 @@
 
 > **Releases-only repository.** This repo hosts the prebuilt Windows installer for FishLadder. The source code is proprietary and lives in a private repository.
 
-## Get the latest release
+## Install
+
+**Recommended: [Retinue Launcher](https://github.com/otac0011/RetinueLauncher-Releases).** Install the launcher once; its **Available tools** tab installs and updates this tool and the other PCB tools (CastGuidance, FishLadder, EyeOpener Lite) from their official release pages. Nothing is installed until you choose it, and each tool's own installer shows its license.
+
+**Or download the installer directly:**
 
 → **[Download the latest release](https://github.com/otac0011/FishLadder-Releases/releases/latest)** (Windows installer, about 60 MB)
 
@@ -37,9 +41,11 @@ Distributed under a **proprietary End User License Agreement**; see [`LICENSE`](
 
 **Summary** (the file is authoritative):
 
-- ✅ Free to install and use on any device you own: personal, educational, or commercial
-- ❌ Redistribute, sell, sublicense, or rent (point others to this page instead)
+- ✅ Install and use on any device you own: personal, educational, or commercial
+- ✅ Share **unmodified** copies (no fee)
+- ❌ Sell, sublicense, or rent
 - ❌ Modify, reverse-engineer, or create derivative works
+- ❌ Distribute in modified form
 - ❌ Remove or obscure copyright notices
 
 This is **not** open-source software. Source code is held privately.
